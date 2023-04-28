@@ -1,0 +1,2 @@
+# gym
+Uczenie nadzorowane
